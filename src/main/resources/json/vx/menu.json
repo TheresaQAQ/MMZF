@@ -1,0 +1,59 @@
+{
+  "button": [
+    {
+      "name" : "信宜青年",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "操作帮助",
+          "key" : "sys::help"
+        },
+        {
+          "type": "click",
+          "name": "填充或更新信息",
+          "key" : "user::fill"
+        },
+        {
+          "type": "click",
+          "name": "查看信息",
+          "key" : "user::getInfo"
+        },
+        {
+          "type": "click",
+          "name": "查看状态",
+          "key" : "user::getStatus"
+        },
+        {
+          "type": "view",
+          "name": "活动列表",
+          "url" : "%s"
+        }
+      ]
+    },
+    {
+      "name" : "管理",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "申请管理员",
+          "key" : "sys::manager-apply"
+        },
+        {
+          "type": "click",
+          "name": "管理系统",
+          "key" : "sys::enter"
+        }
+      ]
+    },
+    {
+      "name" : "信宜",
+      "sub_button": [
+        {
+          "type": "click",
+          "name": "茂名今日天气",
+          "key" : "sub::weather"
+        }
+      ]
+    }
+  ]
+}

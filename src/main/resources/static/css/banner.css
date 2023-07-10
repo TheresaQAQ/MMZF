@@ -1,0 +1,18 @@
+#search {
+    margin: 0 auto;
+    width: 5rem;
+    height: 0.8rem;
+    background-color: white;
+    border-radius: 10px;
+}
+#logo img {
+    width: 125px;
+    height: 71px;
+}
+
+#banner {
+    height: 3rem;
+    width: 100vw;
+    background-color: #42BFED;
+    position: fixed;
+}

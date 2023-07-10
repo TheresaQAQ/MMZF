@@ -1,0 +1,30 @@
+{
+  "code" : 200,
+  "msg" : "success",
+  "data" : {
+    "activities" : [
+      {
+        "activity_id" : 1312312319712,
+        "photo" : "https://baidu.com",
+        "title" : "活动标题",
+        "participate_start" : "2021 01-01 09:00",
+        "participate_end" : "2021 01-01 09:00",
+        "time_start" : "2021 01-01 09:00",
+        "time_end" : "2021 01-01 09:00",
+        "article_url" : "https://baidu.com",
+        "article_id" : 123123123911
+      },
+      {
+        "activity_id" : 1312312319712,
+        "photo" : "https://baidu.com",
+        "title" : "活动标题",
+        "participate_start" : "2021 01-01 09:00",
+        "participate_end" : "2021 01-01 09:00",
+        "time_start" : "2021 01-01 09:00",
+        "time_end" : "2021 01-01 09:00",
+        "article_url" : "https://baidu.com",
+        "article_id" : 123123123911
+      }
+    ]
+  }
+}

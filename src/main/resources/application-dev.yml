@@ -1,0 +1,63 @@
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/mmzf2?serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true
+      username: root
+      password: '00000000'
+
+server:
+  port: 80
+
+wechat:
+  appid: wx58b3a19a84005b6f
+  appsecret: 1e4e07f76b2373661467826703bf2945
+  token-url: https://api.weixin.qq.com/cgi-bin/token
+  user-info-url: https://api.weixin.qq.com/cgi-bin/user/info
+  msg:
+    application: 70R_vw45Aj-byhQ89Q0fY0GH7dfTmC_SElEoGao2WBU
+
+path:
+  prefix: http://localhost
+  reflect:
+    prefix: i/
+    staitic_prefix: res/static
+  file:
+    from: tuchuang
+    local: C:\Users\zhouq\Documents\file\
+  url:
+    local: ${path.prefix}/
+    activities: ${path.prefix}/${path.reflect.staitic_prefix}/activities.html
+
+
+resource:
+  article:
+    defaultCoerURL: http://
+    defaultTitle: 未设置标题
+
+
+vx:
+  reply: 欢迎订阅。。。。。点击此处进行完善身份信息，这样才能获取个性化的推荐信息哦！<a href =${}>【点击此处】</a>
+
+
+URL:
+  front:
+    prefix:
+      client: http://cn-hk-nf-3.natfrp.cloud:55502
+      sys: http://cn-hk-nf-3.natfrp.cloud:55502
+  client:
+    user:
+      info:
+        fill: ${URL.front.prefix.client}/#/select
+        get: ${URL.front.prefix.client}/#/info
+    manager:
+      apply: ${URL.front.prefix.client}/#/manager
+  sys:
+    draft:
+      list: ${URL.front.prefix.sys}/#/draft/list
+
+
+msg:
+  model:
+    diy: 8qWvpNsKexJrBsG_Zffz2Y12UXOxQ-imw-xi99uzEwY

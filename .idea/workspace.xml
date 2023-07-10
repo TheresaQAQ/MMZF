@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="38f92f44-48f7-4976-a97b-a630480b8530" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/Mmzf2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/CORSConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/ConverterConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/InitialAutoRoboter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/JacksonObjectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/JsonStringArrayTypeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/ListToStringConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/MapperSettingAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/MybatisPlusGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/ResourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/config/ScheduleTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/ActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/ArticlePhotosController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/CollegeStudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/DraftController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/DraftReleaseLogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/DraftReleaseTagController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/ExcelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/FileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/GraduatePersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/LogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/ManagerApplyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/NewsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/PaddingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/RoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/SeniorStudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/UserActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/UserCategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/UserRoleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/controller/VXController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/ActivityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/ArticleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/ArticlePhotosMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/CollegeStudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/CompanyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/DraftArticleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/DraftMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/DraftReleaseLogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/DraftReleaseMethodMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/DraftReleaseTagMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/FileMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/GraduatePersonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/LogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/ManagerApplyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/NewsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/SeniorStudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/StudentHighInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/StudentLow12InfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/StudentLow3InfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/TableHeadVoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/UserActivityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/UserCategoryMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/UserRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/mapper/ViewAutoUserFillMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IActivityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IArticlePhotosService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/ICollegeStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/ICompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IDraftArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IDraftReleaseLogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IDraftReleaseMethodService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IDraftReleaseTagService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IDraftService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IFileService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IGraduatePersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/ILogService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IManagerApplyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/INewsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/ISeniorStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IStudentHighInfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IStudentLow12InfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IStudentLow3InfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/ISubService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/ITableHeadVoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IUserActivityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IUserCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IUserRoleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/IVXService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/ActivityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/ArtiServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/ArticlePhotosServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/CollegeStudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/CompanyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/DraftArticleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/DraftReleaseLogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/DraftReleaseMethodServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/DraftReleaseTagServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/DraftServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/FileServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/GraduatePersonServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/ISubServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/LogServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/ManagerApplyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/NewsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/SeniorStudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/StudentHighInfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/StudentLow12InfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/StudentLow3InfoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/TableHeadVoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/UserActivityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/UserCategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/UserQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/UserRoleServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/VXServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/core/service/impl/ViewService/UserFillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/AdminApply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/ArticlePhotos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/CollegeStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/Draft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/DraftArticleRelation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/DraftReleaseLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/DraftReleaseMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/FileDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/GraduatePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/ManagerApply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/News.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/ReleaseTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/SeniorStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/StudentHighInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/StudentLow12Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/StudentLow3Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/TableHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/UserActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/UserCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DB/UserFillViewAuto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/api/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/api/WeatherWarming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/sub/WeatherDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/sub/YiqingDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/tag/AgeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/tag/CollegeTagDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/tag/GraduateTagDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/tag/HighTagDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/tag/TagDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/vx/msg/ArticleReleaseByOpenidDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/vx/msg/ArticleVX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/vx/msg/DiyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/vx/msg/NewsContentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/vx/msg/NewsContentDetailsDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/DTO/vx/msg/NewsReleaseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/ActivityAddRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/AdminApplyRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/ArticleAddRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/ArticleReviewRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/ArticleRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/DraftApplicationRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/DraftCheckRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/ManagerApplyRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/ManagerPaddingRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/MsgRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/NewsRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/PaddingReviewRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/UpdateAuthorRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/UpdateTitleRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/UploadNetImgRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/UserCheckRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/RO/UserUpdateRo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VAO/UserFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VAO/UserTableVAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/ActivityVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/AdminApplyVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/ArticleInfoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/ArticleResultVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/ArticleVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/DraftReleaseVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/FileVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/UserInfoVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/UserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/VO/WangEResultVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/ActivityStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/ActivityTypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/DraftMethodEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/DraftStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/IdentityEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/RiskEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/RoleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/enums/StateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/entity/excel/AdminAppleExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/exception/GlobalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/ArticlePhotosMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/CollegeStudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/CompanyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/DraftReleaseLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/DraftReleaseMethodMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/DraftReleaseTagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/GraduatePersonMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/ManagerApplyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/NewsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/SeniorStudentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/mapper/xml/UserActivityMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/BasePrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/KeyPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/RedisPoolFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/ACTokenKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/ArticleKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/DraftStatusMessionKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/SettingKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/TableHeadPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/UserKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/WeatherKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/myPrefixKey/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/redis/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/result/CodeMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/result/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/AccessTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/CollectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/HttpRequestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/IPUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/ImgSrcReplaceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/MapToObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/MessageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/MultipartToFileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/RLogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/ReleaseConditionSelectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/RiskAreaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/SHA256Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/UUIDUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/WeatherUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rachein/mmzf2/utils/XmlUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/c1/activity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/j/caogaoxiang.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/j/huiyuanshenqing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/j/huodonlist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/j/huodonrenshu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/j/tuiwenshenqing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/j/yonghulist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/table/tuiwenshenhe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/vx/help.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/vx/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/vx/menu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/vx/weather.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/vx/weather_now.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/json/vx/yiqing.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sql/demo1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/activities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/banner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/phone.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\maven\maven\apache-maven-3.8.1\mvn_resp" />
+        <option name="userSettingsFile" value="C:\maven\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SNK3CFIf0uRZqxPexjDCDe7lNc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/code/java/MMZF/src",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\java\MMZF\src" />
+      <recent name="D:\code\java\MMZF" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="38f92f44-48f7-4976-a97b-a630480b8530" name="变更" comment="" />
+      <created>1688981397165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688981397165</updated>
+      <workItem from="1688981398599" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
